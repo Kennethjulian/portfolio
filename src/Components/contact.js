@@ -9,7 +9,7 @@ class Contact extends Component {
                     <Cell col={6}>
                         <h2>Kenneth Julian</h2>
                         <img 
-                        src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+                        src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/81214020_782766585523844_5391048524806750208_n.jpg?_nc_cat=109&_nc_sid=110474&_nc_ohc=4qLq1DTraSAAX_i_2yj&_nc_ht=scontent-atl3-1.xx&oh=71afa86d6aca2df9660a5dd6cecacab3&oe=5E7FFCB4"
                         alt="avatar"
                         style={{height: '250px'}}
                         />
